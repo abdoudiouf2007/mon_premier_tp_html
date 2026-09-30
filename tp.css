@@ -1,0 +1,30 @@
+body {
+    background-color:beige;
+}
+img {
+    width:30%;
+    
+}
+
+h1 {
+    background-color:goldenrod;
+    color:white;
+    text-align: center;
+}
+
+th {
+    color:goldenrod;
+}
+
+caption {
+    color:goldenrod;
+}
+div {
+    color:goldenrod;
+    width:50%;
+}
+
+table {
+    text-align: center;
+    margin-left : 600px;
+}
